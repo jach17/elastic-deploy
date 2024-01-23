@@ -1,2 +1,4 @@
-- pipeline.id: pipeline_proveedores_normal
-  path.config: "/usr/share/logstash/pipeline/pipeline_proveedores_normal.conf"
+- pipeline.id: pipeline_proveedores
+  path.config: "/usr/share/logstash/pipeline/pipeline_proveedores.conf"
+- pipeline.id: pipeline_proveedores_normales
+  path.config: "/usr/share/logstash/pipeline/pipeline_proveedores_normlaes.conf"
